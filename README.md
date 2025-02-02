@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-### I'm web Developer 
 <div>
 
   [![Notion Badge](https://img.shields.io/badge/-Portfolio-000000?logo=Notion)](https://cosmic-wing-913.notion.site/bf8c53e36403463f991ad3cd18c1e20c)
